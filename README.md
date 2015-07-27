@@ -1,2 +1,3 @@
 # webmin-demo
-A SailsJS app with sails-hook-webmin
+
+a [Sails](http://sailsjs.org) application
