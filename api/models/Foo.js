@@ -11,6 +11,7 @@ module.exports = {
     // primitive attributes
     bar: { type: 'string' },
     myNumber: { type: 'integer' },
+    anotherAttribute: { type: 'string' },
 
     // attribute methods
     isWebminVisible: function () {
