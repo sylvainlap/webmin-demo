@@ -20,7 +20,7 @@ module.exports = {
     },
     getWebminColumns: function () {
       // return the attributes to be in the table in the webmin panel
-      return [ 'bar', 'myNumber' ];
+      return [ 'bar', 'anotherAttribute', 'myNumber' ];
     }
   }
 };
